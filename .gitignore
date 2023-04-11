@@ -1,0 +1,12 @@
+# Byte-compiled /optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Setuptools distribution folder.
+/dist/
+__init__.py
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+.directory
